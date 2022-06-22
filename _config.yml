@@ -143,10 +143,9 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages']
+include: ['_pages', 'Gemfile']
 exclude:
   - bin
-  - Gemfile
   - Gemfile.lock
   - vendor
 keep_files:
