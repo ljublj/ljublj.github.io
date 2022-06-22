@@ -1,9 +1,9 @@
-I"š<!-- pages/calendar.md -->
+I"*<!-- pages/calendar.md -->
 <div class="calendar"><!-- Display projects without categories --><!-- Generate cards for each project -->
   <div class="grid"><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/ljublj.training/calendar/1_calendar/">
+  <a href="/calendar/1_calendar/">
       <div class="card hoverable">
         <div class="card-body">
           <h2 class="card-title text-lowercase">22.06.2022</h2>
@@ -16,7 +16,7 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/ljublj.training/calendar/2_calendar/">
+  <a href="/calendar/2_calendar/">
       <div class="card hoverable">
         <div class="card-body">
           <h2 class="card-title text-lowercase">date 1</h2>
@@ -29,7 +29,7 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/ljublj.training/calendar/3_calendar/">
+  <a href="/calendar/3_calendar/">
       <div class="card hoverable">
         <div class="card-body">
           <h2 class="card-title text-lowercase">date 1</h2>
@@ -42,7 +42,7 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/ljublj.training/calendar/4_calendar/">
+  <a href="/calendar/4_calendar/">
       <div class="card hoverable">
         <div class="card-body">
           <h2 class="card-title text-lowercase">date 1</h2>
@@ -55,7 +55,7 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/ljublj.training/calendar/5_calendar/">
+  <a href="/calendar/5_calendar/">
       <div class="card hoverable">
         <div class="card-body">
           <h2 class="card-title text-lowercase">date 1</h2>
@@ -68,7 +68,7 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/ljublj.training/calendar/6_calendar/">
+  <a href="/calendar/6_calendar/">
       <div class="card hoverable">
         <div class="card-body">
           <h2 class="card-title text-lowercase">date 1</h2>
@@ -81,7 +81,7 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/ljublj.training/calendar/7_calendar/">
+  <a href="/calendar/7_calendar/">
       <div class="card hoverable">
         <div class="card-body">
           <h2 class="card-title text-lowercase">date 1</h2>
