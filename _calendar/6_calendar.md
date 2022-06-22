@@ -1,10 +1,8 @@
 ---
 layout: page
-title: date 1
-description: a date with a background image
-img: 
+title: 26.08.2022
+description: Workshop conference in Ljubljana
 importance: 1
-#category: computer science
 ---
 
-Hello world 
+details

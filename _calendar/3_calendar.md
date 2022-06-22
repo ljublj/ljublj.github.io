@@ -1,10 +1,8 @@
 ---
 layout: page
-title: date 1
-description: a date with a background image
-img: 
+title: 22.07.2022
+description: Complete paper submission
 importance: 1
-#category: computer science
 ---
 
-Hello world 
+details

@@ -1,10 +1,8 @@
 ---
 layout: page
-title: date 1
-description: a date with a background image
-img: 
+title: 05.09.2022
+description: CEUR proceedings publication
 importance: 1
-#category: computer science
 ---
 
-Hello world 
+details

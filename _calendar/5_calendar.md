@@ -1,10 +1,8 @@
 ---
 layout: page
-title: date 1
-description: a date with a background image
-img: 
+title: 22.08.2022
+description: Deadline for the camera ready paper
 importance: 1
-#category: computer science
 ---
 
-Hello world 
+details

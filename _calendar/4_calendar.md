@@ -1,10 +1,8 @@
 ---
 layout: page
-title: date 1
-description: a date with a background image
-img: 
+title: 31.07.2022
+description: End of the review process
 importance: 1
-#category: computer science
 ---
 
-Hello world 
+details
