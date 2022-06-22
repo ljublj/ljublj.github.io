@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-07-15 
+date: 2016-01-15 07:59:00-0400
 inline: true
 ---
 
-Paper submission on EasyChair. Reviewing process starts.
+A simple inline announcement with Markdown emoji! :sparkles: :smile:

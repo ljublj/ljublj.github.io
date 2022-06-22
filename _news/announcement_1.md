@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-06-22 
+date: 2015-10-22 15:59:00-0400
 inline: true
 ---
 
-Webpage publication! :sparkles: And easychair setup !  :+1:
+A simple inline announcement.
